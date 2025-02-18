@@ -1,0 +1,25 @@
+body {
+    background-color: turquoise;
+    height: 100vw;
+    position: relative;
+    text-align: center;
+          
+  }
+
+  
+
+.containerCol{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.containerCol div{
+  background-color: blue;
+  border: 2px solid green;
+  height: 50px;
+  width:50px;  
+}
+
+
+
